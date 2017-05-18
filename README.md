@@ -1,6 +1,6 @@
-# class-projects-template
+# adv-spring2017
 
-A Jekyll site for a class final projects site.
+[Website for Advanced GIS Spring 2017 student projects](https://gpia-gis.github.io/adv-spring2017/).
 
 ## Credits
 
