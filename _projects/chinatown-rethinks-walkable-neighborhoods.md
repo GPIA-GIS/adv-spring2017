@@ -8,6 +8,7 @@ location:
     - place: New York, USA
 project-link:
     - href: https://hemingz.github.io/heming.github.io/Chinatown-walkable-about.html
+    - href: https://hemingz.github.io/heming.github.io/heming-leaflet%20for%20community%20routes%20map/Chinatown.html
 tags:
     - tag: Walking, Deep Mapping, Chinatown, Storytelling, 
 thumbnail-path: img/chinatown-rethinks-walkable-neighborhoods/Fo6EgJX.png
